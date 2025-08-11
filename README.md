@@ -47,7 +47,7 @@ Once installed, you can import the package and use the strategy:
 ```python
 import RL_Fundamentals as rl
 ```
-
+https://pypi.org/project/RL-Fundamentals/
 ---
 
 ### 📌 Direct Function Usage Example
