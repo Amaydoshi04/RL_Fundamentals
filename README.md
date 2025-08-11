@@ -1,7 +1,3 @@
-Here’s your final README, formatted with the **credits section line-by-line** so you can copy it directly:
-
----
-
 # RL\_Fundamentals
 
 A Python package to implement core reinforcement learning strategies.
