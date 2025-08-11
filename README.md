@@ -55,9 +55,7 @@ import RL_Fundamentals as rl
 If you import the function directly:
 
 ```python
-from RL_Fundamentals import ucb_strategy
-
-rewards, cumulative_rewards, estimated_Q = ucb_strategy(
+rewards, cumulative_rewards, estimated_Q = rl.ucb_strategy(
     trials=1000,
     arms=5,
     prob_win_eacharm=[0.3, 0.5, 0.6, 0.4, 0.8]
