@@ -45,13 +45,7 @@ This script implements the **UCB1** algorithm for solving the **Multi-Armed Band
 Once installed, you can import the package and use the strategy:
 
 ```python
-import RL_Fundamentals
-
-rewards, cumulative_rewards, estimated_Q = RL_Fundamentals.ucb_strategy(
-    trials=1000,
-    arms=5,
-    prob_win_eacharm=[0.3, 0.5, 0.6, 0.4, 0.8]
-)
+import RL_Fundamentals as rl
 ```
 
 ---
